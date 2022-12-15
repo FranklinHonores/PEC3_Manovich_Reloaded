@@ -1,4 +1,4 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
+ # PEC3: Visionando el futuro con las gafas de Manovich 
 
 ### Recurso de aprendizaje de Cultura Digital 
 
@@ -6,7 +6,7 @@
 Autor: Franklin Eduardo Honores Candelejo
 
 
-Fecha: 15/12/2022
+Fecha: Diciembre de 2022
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
