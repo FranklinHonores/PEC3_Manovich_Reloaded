@@ -25,9 +25,8 @@ La relación que se produce entre los distintos componentes que conforman un med
 En la multimedia conviven elementos que requieren de su propio marco de reproducción independiente del resto, mientras que como mencionábamos anteriormente la hibridación integra todos esos elementos mediante un componente común. 
 >“En documentos y aplicaciones interactivas multimedia, los contenidos de cada medio aparecen uno junto otro […]Por contra, en los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios.” (Manovich, 2013)
 
-Casos de hibridez de medios según el autor pueden ser descubiertos en: 
+Casos de hibridez de medios pueden ser descubiertos en: 
 >“interfaces de usuario, las aplicaciones web, las apps móviles, el diseño visual, el diseño interactivo, los efectos visuales, los medios locativos, los entornos interactivos, el arte digital y otros ámbitos de la cultura digital.” (Manovich, 2013) 
-
 
 
 ## Re-descubriendo la hibridacion: Caso 1 - Jurassic World Alive
