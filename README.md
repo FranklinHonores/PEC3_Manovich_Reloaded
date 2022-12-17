@@ -22,6 +22,7 @@ Gracias a la hibridación se produce una experiencia novedosa y coherente, pues 
 >“Lo que se remixa hoy no es sólo el contenido de los diferentes medios, sino fundamentalmente sus técnicas, sus métodos de trabajo y las formas de representación y de expresión.” (Manovich, 2011)
 
 La relación que se produce entre los distintos componentes que conforman un medio, las técnicas de software que los hacen posibles y la forma en cómo se transmite la experiencia al usuario son fundamentales para diferenciar si nos encontramos ante un caso de hibridación o multimedia. 
+
 En la multimedia conviven elementos que requieren de su propio marco de reproducción independiente del resto, mientras que como mencionábamos anteriormente la hibridación integra todos esos elementos mediante un componente común. 
 >“En documentos y aplicaciones interactivas multimedia, los contenidos de cada medio aparecen uno junto otro […]Por contra, en los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios.” (Manovich, 2013)
 
