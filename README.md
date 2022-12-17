@@ -27,7 +27,7 @@ En la multimedia conviven elementos que requieren de su propio marco de reproduc
 >“En documentos y aplicaciones interactivas multimedia, los contenidos de cada medio aparecen uno junto otro […]Por contra, en los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios.” (Manovich, 2013)
 
 Según el autor casos de hibridez de medios pueden ser descubiertos en: 
-- Interfaces de usuario - Aplicaciones web 
+- Interfaces de usuario 
 - Aplicaciones web 
 - Apps móviles
 - Diseño visual
