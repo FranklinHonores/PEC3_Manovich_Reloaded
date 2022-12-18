@@ -15,7 +15,7 @@ Siguiendo la visión del autor Lev Manovich, la hibridación es un término que 
 >“Se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones.” (Manovich, 2013)
 
 Gracias a la hibridación se produce una experiencia novedosa y coherente, pues se fusionan elementos cuyas técnicas de software e interfícies se comparten a diferencia de la experimentación de los elementos de forma fragmentada. 
->“Lo que se remixa hoy no es sólo el contenido de los diferentes medios, sino fundamentalmente sus técnicas, sus métodos de trabajo y las formas de representación y de expresión.” (Manovich, 2011)
+>“Lo que se remixa hoy no es sólo el contenido de los diferentes medios, sino fundamentalmente sus técnicas, sus métodos de trabajo y las formas de representación y de expresión.” (Manovich, 2007)
 
 La relación que se produce entre los distintos componentes que conforman un medio, las técnicas de software que los hacen posibles y la forma en cómo se transmite la experiencia al usuario son fundamentales para diferenciar si nos encontramos ante un caso de hibridación o multimedia. 
 
@@ -56,6 +56,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2007). **Comprender los medios híbridos**. Articulo. Disponible en: http://manovich.net/content/04-projects/055-understanding-hybrid-media/52_article_2007.pdf
 * Adell, Ferran. **Remediación, multimedia e hibridación de los medios**. Fundamentos y evolución de la multimedia: UOC. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/  
 * Alberich, Jordi. (2018). **Elementos de la creatividad multimedia: apropiación, remediación, hibridación**. Mosaic. Disponible en: https://mosaic.uoc.edu/2018/01/18/elementos-de-la-creatividad-multimedia-apropiacion-remediacion-hibridacion/
 
