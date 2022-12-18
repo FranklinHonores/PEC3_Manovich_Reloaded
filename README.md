@@ -38,7 +38,7 @@ Para el presente reto se han escogido dos casos de hibridación moderna: **Juras
 ## Re-descubriendo la hibridacion: Caso 1 - Jurassic World Alive
 
 ![Jurassic World Alive](https://github.com/FranklinHonores/PEC3_Manovich_Reloaded/blob/main/maxresdefault.jpg?raw=true)
->Jurassic World Alive Fuente: [jurassicworldalive](https://jurassicworldalive.com/)
+>Jurassic World Alive. Fuente: [jurassicworldalive.com](https://jurassicworldalive.com/)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
