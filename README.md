@@ -46,7 +46,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Re-descubriendo la hibridacion: Caso 2 - Gatebox
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Gatebox Virtual Home Robot](https://github.com/FranklinHonores/PEC3_Manovich_Reloaded/blob/main/01B6ezBFcmTl4RbsUHWPKOl-3.fit_lim.size_1600x900.v1569485345.jpg?raw=true)
+>Gatebox Virtual Home Robot. Fuente: [eteknix.com](https://www.eteknix.com/japanese-gatebox-offers-holographic-virtual-assistant-jar/)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
