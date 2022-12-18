@@ -37,7 +37,7 @@ Según el autor casos de hibridez de medios pueden ser descubiertos en:
 - Entornos interactivos
 - Arte digital y otros ámbitos de la cultura digital 
 
-Para el presente reto se han escogido dos casos de hibridación moderna: Jurassic World Alive y Gatebox, los mismos que serán analizados haciendo uso de las gafas de Manovich.
+Para el presente reto se han escogido dos casos de hibridación moderna: **Jurassic World Alive** y **Gatebox**, los mismos que serán analizados haciendo uso de las gafas de Manovich.
 
 ## Re-descubriendo la hibridacion: Caso 1 - Jurassic World Alive
 
