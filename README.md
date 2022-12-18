@@ -56,7 +56,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 * Adell, Ferran. **Remediación, multimedia e hibridación de los medios**. Fundamentos y evolución de la multimedia: UOC. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/  
-* Alberich, Jordi. (2018). **Elementos de la creatividad multimedia: apropoación, remediación, hibridación**. Mosaic. Disponible en: https://mosaic.uoc.edu/2018/01/18/elementos-de-la-creatividad-multimedia-apropiacion-remediacion-hibridacion/
+* Alberich, Jordi. (2018). **Elementos de la creatividad multimedia: apropiación, remediación, hibridación**. Mosaic. Disponible en: https://mosaic.uoc.edu/2018/01/18/elementos-de-la-creatividad-multimedia-apropiacion-remediacion-hibridacion/
 
 ----
 
