@@ -33,7 +33,7 @@ Según el autor casos de hibridez de medios pueden ser descubiertos en:
 - Entornos interactivos
 - Arte digital y otros ámbitos de la cultura digital 
 
-Para el presente reto se han escogido dos casos de hibridación moderna: **Jurassic World Alive** y **Gatebox**, los mismos que serán analizados haciendo uso de las gafas de Manovich.
+Para el presente reto se han escogido dos casos de hibridación moderna: **Jurassic World Alive** y **Gatebox Virtual Home Robot**, los mismos que serán analizados haciendo uso de las gafas de Manovich.
 
 ## Re-descubriendo la hibridacion: Caso 1 - Jurassic World Alive
 
@@ -44,7 +44,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 
-## Re-descubriendo la hibridacion: Caso 2 - Gatebox
+## Re-descubriendo la hibridacion: Caso 2 - Gatebox Virtual Home Robot
 
 ![Gatebox Virtual Home Robot](https://github.com/FranklinHonores/PEC3_Manovich_Reloaded/blob/main/01B6ezBFcmTl4RbsUHWPKOl-3.fit_lim.size_1600x900.v1569485345.jpg?raw=true)
 >Gatebox Virtual Home Robot. Fuente: [eteknix.com](https://cdn.eteknix.com/wp-content/uploads/2016/12/waifufeatures.jpg)
