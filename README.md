@@ -41,7 +41,7 @@ Para el presente reto se han escogido dos casos de hibridación moderna: **Juras
 ![Jurassic World Alive](https://github.com/FranklinHonores/PEC3_Manovich_Reloaded/blob/main/maxresdefault.jpg?raw=true)
 >Jurassic World Alive. Fuente: [jurassicworldalive.com](https://jurassicworldalive.com/)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Jurassic World Alive es un videojuego desarrollado por Ludia para dispositivos móviles inspirado en la popular franquicia Jurassic Park. El juego se basa en Google Maps por tal de que los jugadores encuentren y recolecten la mayor cantidad de dinosaurios posibles por las calles del mundo real.  Cuando alguna especie prehistórica es descubierta se debe desplegar un dron dentro del mapa con la misión de lanzar dardos tranquilizantes y recolectar muestras de ADN o huevos para su preservación. Una vez el dinosaurio está disponible en una colección virtual, es posible evolucionarlo o generar ejemplares híbridos entre dos especímenes con el fin de mejorar los resultados de batalla al enfrentarse a otros jugadores en tiempo real. Adicionalmente, los usuarios tienen la posibilidad de interactuar con la colección de dinosaurios mediante la cámara del dispositivo haciendo uso de la tecnología en realidad aumentada implementada. 
 
 
 
