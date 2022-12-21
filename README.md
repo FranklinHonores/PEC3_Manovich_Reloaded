@@ -84,10 +84,10 @@ Se identifica un tipo de hibridación en el que es posible “combinar y reconfi
 * Alberich, Jordi. (2018). **Elementos de la creatividad multimedia: apropiación, remediación, hibridación**. Mosaic. Disponible en: https://mosaic.uoc.edu/2018/01/18/elementos-de-la-creatividad-multimedia-apropiacion-remediacion-hibridacion/
 * Wikipedia. “Jurassic World Alive”. Disponible en: https://simple.wikipedia.org/wiki/Jurassic_World_Alive
 * Jurassic World Alive. Disponible en: https://jurassicworldalive.com/
-* . “”. Disponible en: https://www.universalproductsexperiences.com/businesses/games-and-.%20%E2%80%9C%E2%80%9D.%20Disponible%20en:%20digital-platforms/jurassic-world-alive
-* . “”. Disponible en: https://jurassicpark.fandom.com/es/wiki/Jurassic_World_Alive#:~:text=Jurassic%20World%3A%20Alive%20es%20un,estudio%20del%20Dinosaur%20Protection%20Group.
-* . “”. Disponible en: https://jurassic-world-alive.fandom.com/wiki/About_the_Game
-* . “”. Disponible en: https://www.xatakandroid.com/realidad-aumentada/jurassic-world-alive-asi-es-el-juego-de-realidad-aumentada-que-busca-imitar-el-exito-de-pokemon-go
-* . “”. Disponible en: https://www.wycoconutgaming.com/jurassic-world-alive/
+* Universal Products & Experiences. “Jurassic World Alive”. Disponible en: https://www.universalproductsexperiences.com/businesses/games-and-.%20%E2%80%9C%E2%80%9D.%20Disponible%20en:%20digital-platforms/jurassic-world-alive
+* Jurassic Park Wiki. “Jurassic World Alive”. Disponible en: https://jurassicpark.fandom.com/es/wiki/Jurassic_World_Alive#:~:text=Jurassic%20World%3A%20Alive%20es%20un,estudio%20del%20Dinosaur%20Protection%20Group.
+* Jurassic World Alive Wiki. “About the Game”. Disponible en: https://jurassic-world-alive.fandom.com/wiki/About_the_Game
+*  Xataka Android. “Jurassic World Alive: así es el juego de realidad aumentada que busca imitar el éxito de Pokémon Go”. Disponible en: https://www.xatakandroid.com/realidad-aumentada/jurassic-world-alive-asi-es-el-juego-de-realidad-aumentada-que-busca-imitar-el-exito-de-pokemon-go
+* Wycoconut Gaming. “Jurassic World Alive Mobile Review”. Disponible en: https://www.wycoconutgaming.com/jurassic-world-alive/
 
 
