@@ -65,10 +65,10 @@ En el caso de estudio escogido se mezclan sistemáticamente contenidos de distin
 
 Se identifica un tipo de hibridación en el que es posible “combinar y reconfigurar formatos de medios conocidos e interfaces de medios para ofrecer nuevos tipos de representación híbridas.” (Manovich, 2013) De tal manera que se unifican diversas tipologías de medios y técnicas de interfaz por tal de que la relación entre usuario y personaje (Inteligencia Artificial) sea lo más personalizada posible acortando de alguna manera la barrera entre el ser humano y el mundo digital de forma novedosa.
 
-## Conclusiones - Valoraciones personales
+## Conclusion - Valoraciones personales
 
 <ol>
-<li>A</li> 
+<li>Jurassic World Alive y el asistente virtual de Gatebox son claras manifestaciones de hibridación de medios modernos emergentes de la cultura digital que se  alinean con  las nociones que el autor Lev Manovich manifiesta en su libro “el software toma el mando”, por lo que perfectamente podrían formar parte de una hipotética nueva versión de la obra.  </li> 
 <li>B</li> 
 <li>C</li>
 <li>D</li>
