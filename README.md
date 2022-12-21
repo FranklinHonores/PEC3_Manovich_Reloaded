@@ -70,7 +70,7 @@ Se identifica un tipo de hibridación en el que es posible “combinar y reconfi
 <ol>
 <li>Jurassic World Alive y el asistente virtual de Gatebox son claras manifestaciones de hibridación de medios modernos emergentes de la cultura digital que se  alinean con  las nociones que el autor Lev Manovich manifiesta en su libro “el software toma el mando”, por lo que perfectamente podrían formar parte de una hipotética nueva versión de la obra.  </li> 
 <li>La demanda de cada vez más experiencias inmersivas por parte de los usuarios contemporáneos que requieran de una reconfiguración de los clásicos medios digitales, provoca que cada vez más empresas involucradas en el desarrollo de interactivos se decanten por aplicar técnicas de hibridación de medios en proyectos cada vez más ambiciosos. </li> 
-<li>C</li>
+<li>Considero que la decisión de lanzar un videojuego diseñado para dispositivos, omnipresentes en la vida cotidiana de las personas, que combina la hibridación de diferentes medios es una estrategia muy acertada por parte de una franquicia a punto de alcanzar los treinta años de existencia por tal de captar la mayor cantidad de aficionados de distintos rangos de edad, al mismo tiempo que contribuye en la generación de una renovada experiencia narrativa transmedia. </li>
 <li>D</li>
 </ol>
 
