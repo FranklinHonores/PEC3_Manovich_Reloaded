@@ -82,4 +82,5 @@ Se identifica un tipo de hibridación en el que es posible “combinar y reconfi
 * Manovich, Lev. (2007). **Comprender los medios híbridos**. Articulo. Disponible en: http://manovich.net/content/04-projects/055-understanding-hybrid-media/52_article_2007.pdf
 * Adell, Ferran. **Remediación, multimedia e hibridación de los medios**. Fundamentos y evolución de la multimedia: UOC. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/  
 * Alberich, Jordi. (2018). **Elementos de la creatividad multimedia: apropiación, remediación, hibridación**. Mosaic. Disponible en: https://mosaic.uoc.edu/2018/01/18/elementos-de-la-creatividad-multimedia-apropiacion-remediacion-hibridacion/
+* Ayuda Google Play. “Cómo actualizar Play Store y las app en Android”. Disponible en: https://support.google.com/googleplay/answer/113412?hl=es-419#:~:text=Actualizar%20las%20apps%20a%20la,posible%20que%20implementemos%20algunas%20actualizaciones. [Consultado el 09/11/22]
 
