@@ -89,14 +89,14 @@ Se identifica un tipo de hibridación en el que es posible “combinar y reconfi
 * Jurassic World Alive Wiki. “About the Game”. Disponible en: https://jurassic-world-alive.fandom.com/wiki/About_the_Game
 *  Xataka Android. “Jurassic World Alive: así es el juego de realidad aumentada que busca imitar el éxito de Pokémon Go”. Disponible en: https://www.xatakandroid.com/realidad-aumentada/jurassic-world-alive-asi-es-el-juego-de-realidad-aumentada-que-busca-imitar-el-exito-de-pokemon-go
 * Wycoconut Gaming. “Jurassic World Alive Mobile Review”. Disponible en: https://www.wycoconutgaming.com/jurassic-world-alive/
-* . “”. Disponible en: https://www.gatebox.ai/about
-* . “”. Disponible en: https://www.gatebox.ai/hikari/making
-* . “”. Disponible en: https://www.gatebox.ai/hikari/profile
-* . “”. Disponible en: https://www.techtarget.com/searcherp/definition/voice-user-interface-VUI
-* . “”. Disponible en: https://linepluscorp.com/pr/news/global/2018/18
-* . “”. Disponible en: https://www.pcmag.com/news/gatebox-virtual-home-robot-wants-you-to-be-her-master
-* . “”. Disponible en: https://venturebeat.com/ai/lines-holographic-gatebox-robot-hints-at-the-virtual-assistants-of-the-future/
-* . “”. Disponible en: https://newatlas.com/gatebox-ai-assistant-anime-girlfriend/47012/
-* . “”. Disponible en: https://japantoday.com/category/tech/japanese-company-develops-life-sized-reactionary-anime-girl-hologram-store-guides
+* Gatebox. “About”. Disponible en: https://www.gatebox.ai/about
+* Gatebox. “Making”. Disponible en: https://www.gatebox.ai/hikari/making
+* Gatebox. “Profile”. Disponible en: https://www.gatebox.ai/hikari/profile
+* TechTarget. “Voice user interface (VUI)”. Disponible en: https://www.techtarget.com/searcherp/definition/voice-user-interface-VUI
+* LINE. “Pre-Orders Starts for Latest Gatebox 'Virtual Home Robot'”. Disponible en: https://linepluscorp.com/pr/news/global/2018/18
+* PCmag. “Gatebox Virtual Home Robot Wants You to Be Her Master”. Disponible en: https://www.pcmag.com/news/gatebox-virtual-home-robot-wants-you-to-be-her-master
+* VentureBeat. “Line's holographic Gatebox robot hints at the virtual assistants of the future”. Disponible en: https://venturebeat.com/ai/lines-holographic-gatebox-robot-hints-at-the-virtual-assistants-of-the-future/
+* NEW ATLAS. “Gatebox reimagines Amazon Alexa as fawning anime girlfriend”. Disponible en: https://newatlas.com/gatebox-ai-assistant-anime-girlfriend/47012/
+* JAPAN TODAY. “Japanese company develops life-sized reactionary anime girl hologram store guides”. Disponible en: https://japantoday.com/category/tech/japanese-company-develops-life-sized-reactionary-anime-girl-hologram-store-guides
 
 
