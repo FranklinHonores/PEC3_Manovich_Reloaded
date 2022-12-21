@@ -63,7 +63,7 @@ Nos encontramos ante un caso de hibridación de medios pues el usuario de Gatebo
 
 En el caso de estudio escogido se mezclan sistemáticamente contenidos de distintos medios, técnicas/métodos de trabajo y vías de representación/expresión para la generación de las animaciones tridimensionales en movimiento. Llegando a considerar al dispositivo como una plataforma de metalenguaje, es decir un espacio en el que se aglutinan varios lenguajes culturales contemporáneos y se generan nuevos híbridos.
 
-
+Se identifica un tipo de hibridación en el que es posible “combinar y reconfigurar formatos de medios conocidos e interfaces de medios para ofrecer nuevos tipos de representación híbridas.” (Manovich, 2013) De tal manera que se unifican diversas tipologías de medios y técnicas de interfaz por tal de que la relación entre usuario y personaje sea lo más personalizada posible acortando de alguna manera la barrera entre el ser humano y el mundo digital.
 
 ## Conclusiones - Valoraciones personales
 
